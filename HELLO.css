@@ -1,0 +1,13 @@
+.hello {
+  position: relative;
+  font-size: var(--font-size-65xl);
+  font-family: var(--font-black-han-sans);
+  color: var(--color-palegreen);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 786px;
+  height: 128px;
+  -webkit-text-stroke: 3px #000;
+}

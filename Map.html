@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./Map.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Black Han Sans:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Happy Monkey:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto Mono:wght@400;700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="map">
+      <section class="map-child"></section>
+      <section class="map-item"></section>
+      <div class="rectangle-list-5">
+        <a class="vector1" href="./Frame.html" id="vector">
+          <img class="vector-icon1" alt="" src="./public/vector1.svg" />
+        </a>
+        <a class="truck-11" href="./Frame1.html" id="truck1"> </a>
+      </div>
+      <div class="hover">
+        <div class="hover1">
+          <div class="searchbar">City</div>
+          <img class="hover-child" alt="" src="./public/rectangle-7.svg" />
+
+          <img class="hover-item" alt="" src="./public/rectangle-8.svg" />
+
+          <img class="hover-inner" alt="" src="./public/vector-1.svg" />
+
+          <img class="hover-child1" alt="" src="./public/vector-1.svg" />
+        </div>
+      </div>
+      <div class="option-22">
+        <div class="option-23">
+          <div class="option-11">Menu</div>
+        </div>
+        <img class="option-2-item" alt="" src="./public/polygon-8.svg" />
+      </div>
+    </div>
+
+    <script>
+      var vector = document.getElementById("vector");
+      if (vector) {
+        vector.addEventListener("click", function (e) {
+          window.location.href = "./Desktop9.html";
+        });
+      }
+      
+      var truck1 = document.getElementById("truck1");
+      if (truck1) {
+        truck1.addEventListener("click", function (e) {
+          window.location.href = "./Component.html";
+        });
+      }
+      </script>
+  </body>
+</html>

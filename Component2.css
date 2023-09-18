@@ -1,0 +1,59 @@
+.property-1default-child {
+  position: absolute;
+  height: 100%;
+  width: 18.97%;
+  top: 0;
+  right: 81.03%;
+  bottom: 0;
+  left: 0;
+  border: 7px solid var(--color-black);
+  box-sizing: border-box;
+}
+.checkbox {
+  position: absolute;
+  height: 100%;
+  width: 75.4%;
+  top: 0;
+  left: 24.6%;
+  display: flex;
+  align-items: center;
+}
+.property-1default1 {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 1012px;
+  height: 192px;
+}
+.property-1chosen-child {
+  position: absolute;
+  height: 100%;
+  width: 18.97%;
+  top: 0;
+  right: 81.03%;
+  bottom: 0;
+  left: 0;
+  background-color: #3f810b;
+  border: 7px solid var(--color-black);
+  box-sizing: border-box;
+}
+.property-1chosen {
+  position: absolute;
+  top: 232px;
+  left: 20px;
+  width: 1012px;
+  height: 192px;
+}
+.component-2 {
+  position: relative;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  width: 100%;
+  height: 444px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-41xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

@@ -7,17 +7,36 @@ body {
   /* fonts */
   --font-inter: Inter;
   --font-black-han-sans: "Black Han Sans";
+  --font-happy-monkey: "Happy Monkey";
+  --font-roboto-mono: "Roboto Mono";
 
   /* font sizes */
   --font-size-31xl: 50px;
   --font-size-17xl: 36px;
   --font-size-base: 16px;
+  --font-size-35xl: 54px;
+  --font-size-21xl: 40px;
+  --font-size-45xl: 64px;
+  --font-size-65xl: 84px;
+  --font-size-11xl: 30px;
+  --font-size-41xl: 60px;
+  --font-size-5xl: 24px;
+  --font-size-xl: 20px;
 
   /* Colors */
   --color-white: #fff;
   --color-black: #000;
+  --color-limegreen-200: rgba(53, 234, 71, 0.75);
   --color-limegreen-100: rgba(53, 234, 71, 0.45);
+  --color-darkslategray: rgba(57, 52, 52, 0.88);
+  --color-gray-100: rgba(0, 0, 0, 0.25);
+  --color-gray-200: rgba(5, 1, 1, 0.77);
+  --color-palegreen: rgba(118, 238, 130, 0.79);
+  --color-blueviolet: #9747ff;
 
   /* Border radiuses */
   --br-28xl: 47px;
+  --br-xl: 20px;
+  --br-lg: 18px;
+  --br-8xs: 5px;
 }

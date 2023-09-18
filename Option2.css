@@ -1,0 +1,33 @@
+.option-14,
+.option-29 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.option-14 {
+  display: flex;
+  align-items: center;
+}
+.option-29 {
+  right: 0;
+  bottom: 0;
+}
+.option-2-child1 {
+  position: absolute;
+  top: calc(50% - 16.25px);
+  left: calc(50% + 35.42px);
+  width: 57.16px;
+  height: 48.75px;
+}
+.option-28 {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 123px;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

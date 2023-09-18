@@ -1,0 +1,10 @@
+.email {
+  margin: 0;
+}
+.email-recycle123gmailcom-container {
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-roboto-mono);
+  color: var(--color-limegreen-200);
+  text-align: left;
+}

@@ -1,0 +1,102 @@
+.component-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.component-inner,
+.component-item {
+  position: absolute;
+  height: 15.03%;
+  width: 100%;
+  top: 84.97%;
+  right: -0.03%;
+  bottom: 0;
+  left: 0.03%;
+  background-color: var(--color-gray-200);
+}
+.component-inner {
+  height: 13.11%;
+  top: 0;
+  bottom: 86.89%;
+}
+.estimated-credits {
+  position: absolute;
+  height: 7.99%;
+  width: 73.65%;
+  top: 2.51%;
+  left: 15.86%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-text-stroke: 3px #000;
+}
+.component-child1 {
+  position: absolute;
+  height: 26.23%;
+  width: 40.32%;
+  top: 36.89%;
+  right: 29.87%;
+  bottom: 36.89%;
+  left: 29.81%;
+  border-radius: 57px;
+  background-color: var(--color-limegreen-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.label {
+  position: absolute;
+  height: 17.59%;
+  width: 32.82%;
+  top: 40.19%;
+  left: 33.62%;
+  font-size: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.component-child2,
+.line-icon {
+  position: absolute;
+  height: 7.21%;
+  width: 3.99%;
+  top: 3.44%;
+  right: 2.23%;
+  bottom: 89.35%;
+  left: 93.78%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.component-child2 {
+  height: 7.03%;
+  width: 4.1%;
+  top: 3.76%;
+  right: 2.11%;
+  bottom: 89.21%;
+}
+.component-child3 {
+  position: absolute;
+  height: 9.25%;
+  width: 5.57%;
+  top: 2.19%;
+  right: 1.21%;
+  bottom: 88.56%;
+  left: 93.23%;
+  background-color: transparent;
+  cursor: pointer;
+}
+.vector-parent {
+  position: relative;
+  width: 100%;
+  height: 638px;
+  text-align: center;
+  font-size: var(--font-size-35xl);
+  color: var(--color-white);
+  font-family: var(--font-black-han-sans);
+}

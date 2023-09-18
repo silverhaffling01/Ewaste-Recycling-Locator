@@ -12,7 +12,15 @@
     />
     <link
       rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Happy Monkey:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto Mono:wght@400;700&display=swap"
     />
   </head>
   <body>
@@ -20,8 +28,8 @@
       <section class="desktop-12-child"></section>
       <section class="desktop-12-item"></section>
       <div class="rectangle-list-3">
-        <a class="truck-1" id="truck1"> </a>
-        <a class="vector" id="vector">
+        <a class="truck-1" href="./Frame1.html" id="truck1"> </a>
+        <a class="vector" href="./Frame.html" id="vector">
           <img class="vector-icon" alt="" src="./public/vector.svg" />
         </a>
       </div>
@@ -211,14 +219,14 @@
       var truck1 = document.getElementById("truck1");
       if (truck1) {
         truck1.addEventListener("click", function (e) {
-          // Please sync "Desktop - 1" to the project
+          window.location.href = "./Component.html";
         });
       }
       
       var vector = document.getElementById("vector");
       if (vector) {
         vector.addEventListener("click", function (e) {
-          // Please sync "Desktop - 9" to the project
+          window.location.href = "./Desktop9.html";
         });
       }
       </script>

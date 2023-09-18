@@ -1,0 +1,112 @@
+.option-15,
+.option-211 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.option-15 {
+  display: flex;
+  align-items: center;
+}
+.option-211 {
+  right: 0;
+  bottom: 0;
+}
+.optiondefault-visible-option-child {
+  position: absolute;
+  top: calc(50% - 16.25px);
+  left: calc(50% + 35.42px);
+  width: 57.16px;
+  height: 48.75px;
+}
+.optiondefault-visible-option {
+  position: absolute;
+  top: calc(50% - 486px);
+  left: calc(50% - 495px);
+  background-color: var(--color-black);
+  width: 404px;
+  height: 183px;
+}
+.option-212 {
+  position: absolute;
+  height: 25%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 75%;
+  left: 0;
+}
+.optiondefault-visible-option-item {
+  position: absolute;
+  height: 8.88%;
+  width: 16.34%;
+  top: 8.06%;
+  right: 24.15%;
+  bottom: 83.06%;
+  left: 59.51%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.option-17 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.option-3 {
+  position: relative;
+  width: 404px;
+  height: 183px;
+}
+.option-18 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.list-of-options,
+.optiondefault-visible-option1 {
+  position: absolute;
+  background-color: var(--color-black);
+}
+.list-of-options {
+  top: calc(50% - 183px);
+  left: calc(50% - 202px);
+  border: 1px solid var(--color-black);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: center;
+}
+.optiondefault-visible-option1 {
+  top: 239px;
+  left: 20px;
+  width: 404px;
+  height: 732px;
+}
+.option-210 {
+  position: relative;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  width: 100%;
+  height: 1012px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

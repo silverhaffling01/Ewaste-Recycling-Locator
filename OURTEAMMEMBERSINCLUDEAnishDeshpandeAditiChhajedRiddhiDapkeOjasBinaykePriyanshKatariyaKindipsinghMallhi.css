@@ -1,0 +1,10 @@
+.our-team-members-include {
+  margin: 0;
+}
+.our-team-members-container {
+  position: relative;
+  font-size: var(--font-size-5xl);
+  color: var(--color-limegreen-200);
+  text-align: left;
+  font-family: var(--font-roboto-mono);
+}

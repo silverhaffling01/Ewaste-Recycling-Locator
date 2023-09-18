@@ -66,7 +66,7 @@
   margin: 0;
   top: 33px;
   left: calc(50% - 486px);
-  font-size: 54px;
+  font-size: var(--font-size-35xl);
   font-weight: 400;
   font-family: inherit;
   justify-content: center;
