@@ -1,0 +1,499 @@
+.desktop-12-child,
+.desktop-12-item {
+  position: absolute;
+  top: 896px;
+  left: 0;
+  background-color: var(--color-black);
+  width: 1460px;
+  height: 141px;
+}
+.desktop-12-item {
+  top: 0;
+  left: 285px;
+  width: 1155px;
+  height: 123px;
+}
+.truck-1 {
+  text-decoration: none;
+  position: relative;
+  width: 145px;
+  height: 120px;
+  background-image: url(./public/truck1@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  cursor: pointer;
+}
+.vector-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector {
+  text-decoration: none;
+  position: relative;
+  width: 73px;
+  height: 79px;
+  cursor: pointer;
+}
+.rectangle-list-3,
+.why-recycle {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.rectangle-list-3 {
+  height: 25.98%;
+  width: 23.33%;
+  top: -0.98%;
+  right: 0;
+  bottom: 75%;
+  left: 76.67%;
+  overflow: hidden;
+  flex-direction: row;
+  padding: 13px 23px 133px;
+  box-sizing: border-box;
+  justify-content: space-between;
+}
+.why-recycle {
+  margin: 0;
+  top: 33px;
+  left: calc(50% - 486px);
+  font-size: 54px;
+  font-weight: 400;
+  font-family: inherit;
+  justify-content: center;
+  width: 920px;
+  -webkit-text-stroke: 3px #000;
+}
+.image-2-icon {
+  position: absolute;
+  top: 123px;
+  left: 0;
+  width: 1440px;
+  height: 781px;
+  object-fit: cover;
+  mix-blend-mode: normal;
+}
+.instance-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-28xl);
+  background-color: var(--color-limegreen-100);
+}
+.resource-conservation {
+  margin: 0;
+}
+.anish-txt {
+  line-break: anywhere;
+  width: 100%;
+}
+.an-sy-it,
+.anish {
+  position: absolute;
+  width: 96.67%;
+  left: 13.67%;
+  display: none;
+  align-items: center;
+}
+.anish {
+  top: 4.09%;
+  -webkit-text-stroke: 3px #000;
+}
+.an-sy-it {
+  height: 44.03%;
+  top: 39.62%;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  justify-content: center;
+}
+.instance-item {
+  position: relative;
+  width: 100px;
+  height: 100px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 192px;
+  left: 89px;
+  width: 300px;
+  height: 318px;
+}
+.desktop-12-inner {
+  position: absolute;
+  height: 18.75%;
+  width: 19.17%;
+  top: 29.79%;
+  right: 73.96%;
+  bottom: 51.46%;
+  left: 6.88%;
+  border-radius: var(--br-28xl);
+}
+.desktop-12-child2,
+.desktop-12-inner,
+.rectangle-div {
+  background-color: var(--color-limegreen-100);
+}
+.rectangle-div {
+  position: absolute;
+  height: 18.75%;
+  width: 19.17%;
+  top: 64.16%;
+  right: 51.18%;
+  bottom: 17.09%;
+  left: 29.65%;
+  border-radius: var(--br-28xl);
+}
+.desktop-12-child2 {
+  top: 29.79%;
+  right: 5.83%;
+  bottom: 51.46%;
+  left: 75%;
+}
+.desktop-12-child2,
+.desktop-12-child3,
+.desktop-12-child4,
+.desktop-12-child5 {
+  position: absolute;
+  height: 18.75%;
+  width: 19.17%;
+  border-radius: var(--br-28xl);
+}
+.desktop-12-child3 {
+  top: 30.08%;
+  right: 28.4%;
+  bottom: 51.17%;
+  left: 52.43%;
+  background-color: var(--color-limegreen-100);
+}
+.desktop-12-child4,
+.desktop-12-child5 {
+  top: 29.79%;
+  bottom: 51.46%;
+}
+.desktop-12-child4 {
+  right: 73.96%;
+  left: 6.88%;
+  background-color: rgba(53, 234, 71, 0.55);
+}
+.desktop-12-child5 {
+  right: 51.18%;
+  left: 29.65%;
+  background-color: var(--color-limegreen-100);
+}
+.desktop-12-child10,
+.desktop-12-child12,
+.desktop-12-child13,
+.desktop-12-child6,
+.desktop-12-child7,
+.desktop-12-child8,
+.desktop-12-child9 {
+  position: absolute;
+  height: 18.75%;
+  width: 19.17%;
+  top: 64.16%;
+  right: 27.85%;
+  bottom: 17.09%;
+  left: 52.99%;
+  border-radius: var(--br-28xl);
+  background-color: var(--color-limegreen-100);
+}
+.desktop-12-child10,
+.desktop-12-child12,
+.desktop-12-child13,
+.desktop-12-child7,
+.desktop-12-child8,
+.desktop-12-child9 {
+  top: 64.06%;
+  right: 6.04%;
+  bottom: 17.19%;
+  left: 74.79%;
+}
+.desktop-12-child10,
+.desktop-12-child12,
+.desktop-12-child13,
+.desktop-12-child8,
+.desktop-12-child9 {
+  top: 65.14%;
+  right: 73.96%;
+  bottom: 16.11%;
+  left: 6.88%;
+}
+.desktop-12-child10,
+.desktop-12-child12,
+.desktop-12-child13,
+.desktop-12-child9 {
+  top: 64.16%;
+  right: 6.04%;
+  bottom: 17.09%;
+  left: 74.79%;
+}
+.desktop-12-child10,
+.desktop-12-child12,
+.desktop-12-child13 {
+  top: 64.06%;
+  right: 28.19%;
+  bottom: 17.19%;
+  left: 52.64%;
+}
+.desktop-12-child12,
+.desktop-12-child13 {
+  top: 29.79%;
+  right: 6.04%;
+  bottom: 51.46%;
+  left: 74.79%;
+}
+.desktop-12-child13 {
+  top: 30.08%;
+  right: 28.47%;
+  bottom: 51.17%;
+  left: 52.36%;
+}
+.anish1 {
+  position: absolute;
+  width: 96.67%;
+  top: 15.41%;
+  left: 13.67%;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  -webkit-text-stroke: 3px #000;
+}
+.rectangle-container,
+.rectangle-group,
+.rectangle-parent1 {
+  position: absolute;
+  top: 194px;
+  left: 1069px;
+  width: 300px;
+  height: 318px;
+  font-size: var(--font-size-31xl);
+}
+.rectangle-container,
+.rectangle-parent1 {
+  left: 746px;
+}
+.rectangle-parent1 {
+  top: 192px;
+  left: 415px;
+}
+.anish4 {
+  position: absolute;
+  width: 96.67%;
+  top: 15.41%;
+  left: 13.67%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-text-stroke: 3px #000;
+}
+.rectangle-parent2,
+.rectangle-parent3,
+.rectangle-parent4,
+.rectangle-parent5 {
+  position: absolute;
+  top: 543px;
+  left: 84px;
+  width: 300px;
+  height: 318px;
+  font-size: var(--font-size-31xl);
+}
+.rectangle-parent3,
+.rectangle-parent4,
+.rectangle-parent5 {
+  top: 545px;
+  left: 1069px;
+}
+.rectangle-parent4,
+.rectangle-parent5 {
+  left: 746px;
+}
+.rectangle-parent5 {
+  left: 415px;
+}
+.reduction-of-waste,
+.resource-conservation1 {
+  margin: 0;
+  position: absolute;
+  width: 20.14%;
+  top: 21.29%;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  -webkit-text-stroke: 3px #000;
+}
+.reduction-of-waste {
+  left: 29.86%;
+  justify-content: center;
+}
+.resource-conservation1 {
+  left: 6.88%;
+}
+.by-recycling-materials-container,
+.manufacturing-goods-from,
+.recycling-helps-conserve-container,
+.recycling-programs-often,
+.recycling-programs-require {
+  position: absolute;
+  width: calc(100% - 1150px);
+  bottom: 553px;
+  left: 94px;
+  font-size: var(--font-size-base);
+  display: flex;
+  align-items: center;
+  height: 140px;
+}
+.by-recycling-materials-container,
+.manufacturing-goods-from,
+.recycling-programs-often,
+.recycling-programs-require {
+  bottom: 195px;
+  left: 90px;
+}
+.manufacturing-goods-from,
+.recycling-programs-often,
+.recycling-programs-require {
+  bottom: 200px;
+  left: 1073px;
+  justify-content: center;
+}
+.manufacturing-goods-from,
+.recycling-programs-require {
+  bottom: 201px;
+  left: 749px;
+}
+.manufacturing-goods-from {
+  bottom: 206px;
+  left: 419px;
+}
+.recycling-often-requires-container {
+  bottom: 546px;
+  left: 746px;
+}
+.recycling-diverts-waste-container,
+.recycling-often-requires-container,
+.the-extraction-of {
+  position: absolute;
+  width: calc(100% - 1150px);
+  font-size: var(--font-size-base);
+  display: flex;
+  align-items: center;
+  height: 140px;
+}
+.the-extraction-of {
+  bottom: 554px;
+  left: 1069px;
+  justify-content: center;
+}
+.recycling-diverts-waste-container {
+  bottom: 551px;
+  left: 415px;
+}
+.conservation-of-habitat-container,
+.creates-job-opportunities,
+.energy-independence,
+.energy-savings,
+.environment-education,
+.reduction-of-pollution {
+  margin: 0;
+  position: absolute;
+  width: 20.14%;
+  top: 21.29%;
+  left: 52.15%;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  -webkit-text-stroke: 3px #000;
+}
+.conservation-of-habitat-container,
+.creates-job-opportunities,
+.energy-independence,
+.environment-education,
+.reduction-of-pollution {
+  top: 21.68%;
+  left: 74.79%;
+}
+.creates-job-opportunities,
+.energy-independence,
+.environment-education,
+.reduction-of-pollution {
+  top: 54.69%;
+  left: 6.53%;
+  justify-content: center;
+}
+.creates-job-opportunities,
+.environment-education,
+.reduction-of-pollution {
+  top: 55.37%;
+  left: 74.58%;
+}
+.creates-job-opportunities,
+.reduction-of-pollution {
+  top: 55.08%;
+  left: 29.51%;
+}
+.creates-job-opportunities {
+  top: 55.27%;
+  left: 52.5%;
+}
+.option-1,
+.option-21 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.option-1 {
+  display: flex;
+  align-items: center;
+}
+.option-21 {
+  right: 0;
+  bottom: 0;
+}
+.option-2-child {
+  position: absolute;
+  top: calc(50% - 16.25px);
+  left: calc(50% + 35.92px);
+  width: 57.16px;
+  height: 48.75px;
+}
+.option-2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-black);
+  width: 285px;
+  height: 123px;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  font-family: var(--font-inter);
+}
+.desktop-12 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+  font-family: var(--font-black-han-sans);
+}

@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-black-han-sans: "Black Han Sans";
+
+  /* font sizes */
+  --font-size-31xl: 50px;
+  --font-size-17xl: 36px;
+  --font-size-base: 16px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-limegreen-100: rgba(53, 234, 71, 0.45);
+
+  /* Border radiuses */
+  --br-28xl: 47px;
+}
